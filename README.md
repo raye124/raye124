@@ -1,10 +1,10 @@
 ## Hello | 你好 | Bonjour 😁
 
-My name is Raye! Information Systems penultimate at Singapore Management University. My majors are Business Analytics and Artificial Intelligence.
+My name is Raye, and I'm an Information Systems penultimate at Singapore Management University. My majors are Business Analytics and Artificial Intelligence.
 
 Started out as an arts student, and my background shapes my perspective. I strongly believe tech and humanity shouldn't stay in separate monoliths. Great products come from good decisions, and good decisions come from sound data analysis. 
 
-Working towards becoming a product manager/business analyst, and I hope to bridge the two worlds someday!
+Working towards becoming a product manager/business analyst, and I hope to bridge the two worlds someday.
 
 ## Tech Stack 
 
@@ -28,3 +28,6 @@ Working towards becoming a product manager/business analyst, and I hope to bridg
 
 ## Connect
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayeyap.work@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raye-yap-23404b232/)
