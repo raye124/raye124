@@ -2,7 +2,7 @@
 
 My name is Raye, and I'm an Information Systems penultimate at Singapore Management University. My majors are Business Analytics and Artificial Intelligence.
 
-Started out as an arts student, and my background continues to shape my perspective. I strongly believe tech and humanity shouldn't stay as separate monoliths. Great products come from good decisions, and good decisions come from sound data analysis. 
+Started out as an arts student in junior college, and my background continues to shape my perspective in my higher education. I strongly believe tech and humanity shouldn't stay as separate monoliths. Great products come from good decisions, and good decisions come from sound data analysis. 
 
 Working towards becoming a product manager/business analyst, and I hope to bridge the two worlds someday.
 
