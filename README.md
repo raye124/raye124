@@ -2,7 +2,7 @@
 
 My name is Raye, and I'm an Information Systems penultimate at Singapore Management University. My majors are Business Analytics and Artificial Intelligence.
 
-Started out as an arts student in junior college, and my background continues to shape my perspective in higher education. I strongly believe tech and humanity shouldn't stay as separate monoliths, and I hope to bridge the two worlds someday.
+Formerly studied language arts in junior college, before pivoting to tech. Aspires to bridge people, process and product, bringing a human-centred perspective to every decision.
 
 ## Tech Stack 💻
 
